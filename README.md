@@ -1,2 +1,2 @@
 # online-survey-form-and-report
-getting a survey form filled from people and generate a summary report
+getting a survey form filled from people and generate a summary report.  we use html, css and php with mysql to store result and then generate summary report when needed.  fist form collect visitor data and then forwarded to survey form and result will be stored as well as information of user in relational database.   a survey summary report will then be generated after minimum 5 visitor.
